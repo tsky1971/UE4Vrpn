@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UEVRPN",
+	"Description": "VirtualRealityPeripheralNetwork",
+	"Category": "VR",
+	"CreatedBy": "tsky",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "UE4VRPN",
+			"Type": "Developer",
+			"LoadingPhase": "Default"
+		}
+	]
+}
